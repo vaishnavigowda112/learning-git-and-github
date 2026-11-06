@@ -46,3 +46,6 @@ def calculator():
                 print(e)
         else:
             print("Invalid input. Please try again.")
+def main():
+    calculator()
+    
