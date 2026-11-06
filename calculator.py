@@ -51,4 +51,6 @@ def main():
     print("Thank you for using the calculator!")
 if __name__ == "__main__":
     main()
+else:
+    print("Calculator module has been imported.")
 
