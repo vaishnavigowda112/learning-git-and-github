@@ -49,3 +49,6 @@ def calculator():
 def main():
     calculator()
     print("Thank you for using the calculator!")
+if __name__ == "__main__":
+    main()
+
