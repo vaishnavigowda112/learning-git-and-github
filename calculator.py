@@ -48,4 +48,4 @@ def calculator():
             print("Invalid input. Please try again.")
 def main():
     calculator()
-    
+    print("Thank you for using the calculator!")
